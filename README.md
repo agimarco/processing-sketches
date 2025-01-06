@@ -1,2 +1,2 @@
 # processing-sketches
-Sketches in the Processing programming language
+Sketches in the Processing language
